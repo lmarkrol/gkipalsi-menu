@@ -43,7 +43,7 @@
 }
 .clone .fixed-side {
 	border:1px solid white;
-	background:#eee;
+	background:#ffbf00;
 	visibility:visible;
 }
 .clone thead, .clone tfoot{background:transparent;}
